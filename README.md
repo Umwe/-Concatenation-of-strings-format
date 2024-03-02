@@ -1,5 +1,16 @@
 # -Concatenation-of-strings-format
 
+
+
+
+
+
+Rewrite the for statement in chapter 1 using what you have learnt in 5-3.
+The function to change is get_player()
+
+
+
+
 【WiredInAcademy】Python Course Section 5 at「Advanced programming」
 1st : min 2nd : min 3rd : min 4th : min 5th : min
 Sample Source URL: https://github.com/techgymjp/techgym_python_en
